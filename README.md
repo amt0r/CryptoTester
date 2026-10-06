@@ -4,7 +4,6 @@ An offline cryptocurrency trading simulator for Android. Practice spot trading d
 
 ## ✨ Features
 
-- **Interactive Candlestick Chart** — custom Canvas-drawn OHLC chart with pinch-to-zoom and horizontal panning
 - **RSI Indicator** — 14-period Relative Strength Index (Wilder's smoothing) with overbought/oversold thresholds (70/30)
 - **Step-by-Step Simulation** — candles revealed one at a time, simulating real-time market progression
 - **Spot Trading** — place BUY and SELL orders using a percentage slider (0–100% of available funds)
